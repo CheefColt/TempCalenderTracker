@@ -8,3 +8,4 @@ Tracks Birthday of people.
 3. ejs
 4. express
 5. pg
+6. Nodemon
