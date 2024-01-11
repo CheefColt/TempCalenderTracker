@@ -1,4 +1,4 @@
-# TempCalenderTracker
+# CalenderTracker
 Tracks Birthday of people.
 
 
